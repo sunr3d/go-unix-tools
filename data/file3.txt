@@ -1,0 +1,5 @@
+// Config-like file
+[settings]
+name="Test Config"
+version=1.0
+debug=true

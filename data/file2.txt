@@ -1,0 +1,4 @@
+func main() {
+    fmt.Println("Hello, World!")
+    // This is a comment in the main function
+}
