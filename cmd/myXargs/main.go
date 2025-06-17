@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"Go_Day02/internal/logic/myXargs"
+	"go-unix-tools/internal/logic/myXargs"
 )
 
 func main() {

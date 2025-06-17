@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"Go_Day02/internal/logic/myFind"
+	"go-unix-tools/internal/logic/myFind"
 )
 
 func main() {

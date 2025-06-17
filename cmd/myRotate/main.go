@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"Go_Day02/internal/logic/myRotate"
+	"go-unix-tools/internal/logic/myRotate"
 )
 
 func main() {

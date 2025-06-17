@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"Go_Day02/pkg/workerpool"
+	"go-unix-tools/pkg/workerpool"
 )
 
 type result struct {

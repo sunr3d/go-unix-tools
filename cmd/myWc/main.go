@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"Go_Day02/internal/logic/myWc"
+	"go-unix-tools/internal/logic/myWc"
 )
 
 func main() {

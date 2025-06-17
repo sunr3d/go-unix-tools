@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"Go_Day02/pkg/workerpool"
+	"go-unix-tools/pkg/workerpool"
 )
 
 type processor struct {
